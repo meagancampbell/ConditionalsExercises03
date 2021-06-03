@@ -35,3 +35,4 @@ console.log("ENGINE FAILURE IMMINENT!");
 /* 6) b) Code the following if/else check:
 If fuelLevel is above 20000 AND engineIndicatorLight is NOT red blinking OR commandOverride is true print "Cleared to launch!" Else print "Launch scrubbed!" */
 
+
